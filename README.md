@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abhishek @shettyy
+- 👋 Hi, I’m Abhishek Shetty
 <!---
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
@@ -6,6 +6,6 @@
 - 📫 How to reach me ...
 
 
-abhishek-shetty/abhishek-shetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+shettyy/shettyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
